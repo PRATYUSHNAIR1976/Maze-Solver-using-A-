@@ -1,4 +1,4 @@
-# Maze-Solver-using-A-
+# Maze-Solver-using-A*
 Maze Solver Application using A* algorithm . Finds the shortest distance between the start and the final destination.
 A*:
 A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals.
